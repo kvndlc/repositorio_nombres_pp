@@ -33,6 +33,7 @@ public class Parcial_DataOps {
         System.out.println("Sueldo bruto: " + sb);
         System.out.println("Descuento: " + d);
         System.out.println("Sueldo Neto: " + sn);
+        System.out.println("Proceso Realizado con exito");
 
     }//Fin del método
 }//fin del programa
